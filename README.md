@@ -4,7 +4,7 @@ Caleb Kirilov, ckirlov2@huskers.unl.edu
 
 ## Abstract
 
-Spotify has an artist feature for a seven second video loop to replace a song's album art while viewing a song on the phone app in fullscreen. I personally find the feature annoying, however, keeping with my class theme of generative musicians I thought this would be a perfect application for BigGAN truncation videos. I plan to make one to accompany my project 2 generation assisted song.
+Spotify has an artist feature for a custom seven second video loop to replace a song's album art while viewing a song on the phone app in fullscreen. I personally find the feature annoying, however, keeping with my class theme of generative musicians I thought this would be a perfect application for BigGAN truncation videos. I plan to make one to accompany my project 2 generation assisted song.
 
 ## Model/Data
 
